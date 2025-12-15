@@ -16,3 +16,6 @@ files_button = Button(root, text='Select Text File')
 
 #Text Box
 writing_here = Text(root)
+
+#Placing into Window
+save_button.grid(row=0, column=0)
