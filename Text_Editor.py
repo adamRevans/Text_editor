@@ -7,7 +7,7 @@ root = Tk()
 root.title("Buisness Text Editor")
 
 #Window Size
-root.geometry("500x500")
+root.geometry("1000x1000")
 
 #Fun buttons
 save_button = Button(root, text='Save')
